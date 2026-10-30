@@ -1,0 +1,186 @@
+{
+  "status": "Proposal for upstream review; not applied to or approved by Google Fonts",
+  "existing_subsets": [
+    "cyrillic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "missing_codepoints": [
+    {
+      "codepoint": "U+02D8",
+      "name": "BREVE",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+02D9",
+      "name": "DOT ABOVE",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+02DB",
+      "name": "OGONEK",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+0302",
+      "name": "COMBINING CIRCUMFLEX ACCENT",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+0306",
+      "name": "COMBINING BREVE",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+0307",
+      "name": "COMBINING DOT ABOVE",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+030A",
+      "name": "COMBINING RING ABOVE",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+030B",
+      "name": "COMBINING DOUBLE ACUTE ACCENT",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+030C",
+      "name": "COMBINING CARON",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+030F",
+      "name": "COMBINING DOUBLE GRAVE ACCENT",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+0311",
+      "name": "COMBINING INVERTED BREVE",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+031B",
+      "name": "COMBINING HORN",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+0324",
+      "name": "COMBINING DIAERESIS BELOW",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+0325",
+      "name": "COMBINING RING BELOW",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+0326",
+      "name": "COMBINING COMMA BELOW",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+0327",
+      "name": "COMBINING CEDILLA",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+0328",
+      "name": "COMBINING OGONEK",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+032D",
+      "name": "COMBINING CIRCUMFLEX ACCENT BELOW",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+032E",
+      "name": "COMBINING BREVE BELOW",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+0330",
+      "name": "COMBINING TILDE BELOW",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+0331",
+      "name": "COMBINING MACRON BELOW",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+0462",
+      "name": "CYRILLIC CAPITAL LETTER YAT",
+      "proposed_subset": "cyrillic"
+    },
+    {
+      "codepoint": "U+0463",
+      "name": "CYRILLIC SMALL LETTER YAT",
+      "proposed_subset": "cyrillic"
+    },
+    {
+      "codepoint": "U+046A",
+      "name": "CYRILLIC CAPITAL LETTER BIG YUS",
+      "proposed_subset": "cyrillic"
+    },
+    {
+      "codepoint": "U+046B",
+      "name": "CYRILLIC SMALL LETTER BIG YUS",
+      "proposed_subset": "cyrillic"
+    },
+    {
+      "codepoint": "U+2003",
+      "name": "EM SPACE",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+200A",
+      "name": "HAIR SPACE",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+2021",
+      "name": "DOUBLE DAGGER",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+202F",
+      "name": "NARROW NO-BREAK SPACE",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+2030",
+      "name": "PER MILLE SIGN",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+2060",
+      "name": "WORD JOINER",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+2190",
+      "name": "LEFTWARDS ARROW",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+2192",
+      "name": "RIGHTWARDS ARROW",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+2260",
+      "name": "NOT EQUAL TO",
+      "proposed_subset": "latin-ext"
+    },
+    {
+      "codepoint": "U+25CC",
+      "name": "DOTTED CIRCLE",
+      "proposed_subset": "latin-ext"
+    }
+  ]
+}

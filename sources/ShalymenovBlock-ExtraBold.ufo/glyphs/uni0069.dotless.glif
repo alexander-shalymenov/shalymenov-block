@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0069.dotless" format="2">
+  <advance width="278"/>
+  <outline>
+    <contour>
+      <point x="51" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="227" y="640" type="line"/>
+      <point x="51" y="640" type="line"/>
+    </contour>
+  </outline>
+</glyph>

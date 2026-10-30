@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030A" format="2">
+  <unicode hex="030A"/>
+  <outline>
+    <contour>
+      <point x="-97" y="0" type="line"/>
+      <point x="97" y="0" type="line"/>
+      <point x="97" y="194" type="line"/>
+      <point x="-97" y="194" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="77" type="line"/>
+      <point x="-20" y="117" type="line"/>
+      <point x="20" y="117" type="line"/>
+      <point x="20" y="77" type="line"/>
+    </contour>
+  </outline>
+</glyph>

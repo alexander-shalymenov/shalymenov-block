@@ -1,0 +1,11 @@
+Shalymenov Block — development log
+
+30 October 2026 — Version 1.102
+Aligned lowercase i/j dot tops across all four weights and related forms.
+Corrected the right terminal of W and verified W/w mirror symmetry.
+Refined diagonal-pair spacing, preserving straight-pair spacing and advances.
+Submitted for Google Fonts review on 30 October 2026: google/fonts#11201.
+
+30 October 2026 — Version 1.101
+Technical compliance revision: compact accents, shaping, contour corrections,
+additional character coverage, reproducible UFO sources and four static fonts.
