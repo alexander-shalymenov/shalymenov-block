@@ -54,7 +54,7 @@ Adjust `line-height` for the text; stacked accents may need more leading.
 ## Specimen website
 
 The interactive specimen is maintained separately on the author's hosting
-checkout. Its planned address is `https://mediadesign.es/fonts/shalymenov-block/`;
+checkout. Its planned address is `https://mediadesign.ca/fonts/shalymenov-block/`;
 hosting deployment is pending. The personal HTML/CSS/JavaScript page is not
 included in the current font distribution. The static specimen above previews
 the font directly from its outlines.
